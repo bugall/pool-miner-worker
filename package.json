@@ -17,6 +17,7 @@
     "redis": "^2.7.1",
     "sequelize": "^4.39.0",
     "stratum-pool": "git@github.com:bugall/node-stratum-pool.git",
+    "uuid": "^3.3.2",
     "winston": "^3.1.0",
     "winston-daily-rotate-file": "^3.3.3"
   },
